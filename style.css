@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(196, 217, 217);
+  font-family: 'Noto Sans', sans-serif;
+  text-align: center;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+.photo {
+  width: 500px;
+  border-radius: 20px;
+}
+
+.logo {
+  width: 1em;
+  height: 1em;
+}
+
+h1,
+h2 {
+  color: #0a1151;
+}
+
+li {
+  margin: 5px;
+}
+
+footer {
+  background-color: #b3b4bd;
+}
+
+a {
+  display: inline-block;
+  font-size: 20px;
+  color: #d4287e;
+  text-decoration: none;
+  padding: 10px 30px 10px 30px;
+}
+
+a:hover,
+a:focus {
+  background-color: rgb(242, 237, 237);
+}
